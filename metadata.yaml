@@ -1,0 +1,28 @@
+_repo: A-Treatise-on-the-Incubus-or-Night-Mare-Disturbed-Sleep-Terrific-Dreams-and-Nocturnal-Visions_42809
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42809-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Waller, John Augustine
+    alias: Waller John (Surgeon of the Royal Navy)
+    gutenberg_agent_id: '41867'
+    url: http://www.gutenberg.org/2009/agents/41867
+description: ''
+gutenberg_issued: '2013-05-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42809'
+  lccn: '33038485'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcsh 'Nightmares'
+- !lcsh 'Sleep disorders'
+title: A Treatise on the Incubus, or Night-Mare, Disturbed Sleep, Terrific Dreams
+  and Nocturnal Visions
+url: http://www.gutenberg.org/ebooks/42809
